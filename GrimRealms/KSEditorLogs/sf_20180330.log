@@ -1,0 +1,240 @@
+2018-03-30 13:27:50.8786 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 13:27:55.1822 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 13:32:38.9284 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 13:40:16.1403 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 13:47:10.0658 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 13:47:10.5680 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 13:47:21.7867 [DEBUG] Play mode: False
+2018-03-30 13:47:28.0098 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 13:47:28.2442 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 13:47:40.5539 [DEBUG] Play mode: False
+2018-03-30 13:47:57.1966 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 13:47:57.3530 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 13:48:16.2294 [DEBUG] Play mode: False
+2018-03-30 13:48:56.6077 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 13:48:56.8359 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 13:49:26.5467 [DEBUG] Play mode: False
+2018-03-30 13:49:41.6883 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 13:49:41.8530 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 13:50:02.5206 [DEBUG] Play mode: False
+2018-03-30 13:50:57.1058 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 13:50:57.2522 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 13:51:13.5053 [DEBUG] Play mode: False
+2018-03-30 13:54:52.9889 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 13:55:00.4762 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 13:55:00.6256 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 13:55:11.6283 [DEBUG] Play mode: False
+2018-03-30 13:55:19.3405 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 13:55:19.4972 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 13:55:31.0643 [DEBUG] Play mode: False
+2018-03-30 13:58:42.0410 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 13:58:42.2678 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 13:58:46.2609 [ERROR] ArgumentException: Input Button Interact is not setup.
+ To change the input settings use: Edit -> Project Settings -> Input
+Note.OnTriggerEnter (UnityEngine.Collider other) (at Assets/Models/Objects/Note/Materials/Note.cs:30)
+
+2018-03-30 13:58:52.3401 [ERROR] ArgumentException: Input Button Interact is not setup.
+ To change the input settings use: Edit -> Project Settings -> Input
+Note.OnTriggerEnter (UnityEngine.Collider other) (at Assets/Models/Objects/Note/Materials/Note.cs:30)
+
+2018-03-30 13:58:57.0874 [DEBUG] Play mode: False
+2018-03-30 13:59:22.2717 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 13:59:22.4834 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 13:59:59.4343 [DEBUG] Play mode: False
+2018-03-30 14:01:04.8284 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:01:04.9718 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:01:30.4063 [DEBUG] Play mode: False
+2018-03-30 14:02:14.1854 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:02:14.3862 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:02:35.4069 [DEBUG] Play mode: False
+2018-03-30 14:03:02.7872 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:03:02.9479 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:03:37.8589 [DEBUG] Play mode: False
+2018-03-30 14:03:57.4412 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:03:57.6537 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:04:14.4339 [DEBUG] Play mode: False
+2018-03-30 14:07:20.6883 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:07:20.9291 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:07:38.3909 [DEBUG] Play mode: False
+2018-03-30 14:08:43.4036 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:08:43.6464 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:09:15.0941 [DEBUG] Play mode: False
+2018-03-30 14:11:43.5440 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:11:43.6964 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:12:07.6666 [DEBUG] Play mode: False
+2018-03-30 14:14:26.8620 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:14:27.1056 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:14:47.6179 [DEBUG] Play mode: False
+2018-03-30 14:15:30.0095 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:15:30.2481 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:15:37.2073 [DEBUG] Play mode: False
+2018-03-30 14:17:09.9452 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:17:10.1028 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:17:16.6955 [DEBUG] Play mode: False
+2018-03-30 14:18:22.3339 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:18:22.5573 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:18:26.3525 [ERROR] MissingComponentException: There is no 'AudioSource' attached to the "Note" game object, but a script is trying to access it.
+You probably need to add a AudioSource to the game object "Note". Or your script needs to check if the component is attached before using it.
+UnityEngine.AudioSource.PlayOneShot (UnityEngine.AudioClip clip, Single volumeScale) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Audio/AudioBindings.gen.cs:829)
+UnityEngine.AudioSource.PlayOneShot (UnityEngine.AudioClip clip) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Audio/AudioBindings.gen.cs:817)
+Note.OnTriggerStay (UnityEngine.Collider other) (at Assets/Models/Objects/Note/Materials/Note.cs:26)
+
+2018-03-30 14:18:26.3740 [ERROR] MissingComponentException: There is no 'AudioSource' attached to the "Note" game object, but a script is trying to access it.
+You probably need to add a AudioSource to the game object "Note". Or your script needs to check if the component is attached before using it.
+UnityEngine.AudioSource.PlayOneShot (UnityEngine.AudioClip clip, Single volumeScale) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Audio/AudioBindings.gen.cs:829)
+UnityEngine.AudioSource.PlayOneShot (UnityEngine.AudioClip clip) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Audio/AudioBindings.gen.cs:817)
+Note.OnTriggerStay (UnityEngine.Collider other) (at Assets/Models/Objects/Note/Materials/Note.cs:26)
+
+2018-03-30 14:18:26.3905 [ERROR] MissingComponentException: There is no 'AudioSource' attached to the "Note" game object, but a script is trying to access it.
+You probably need to add a AudioSource to the game object "Note". Or your script needs to check if the component is attached before using it.
+UnityEngine.AudioSource.PlayOneShot (UnityEngine.AudioClip clip, Single volumeScale) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Audio/AudioBindings.gen.cs:829)
+UnityEngine.AudioSource.PlayOneShot (UnityEngine.AudioClip clip) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Audio/AudioBindings.gen.cs:817)
+Note.OnTriggerStay (UnityEngine.Collider other) (at Assets/Models/Objects/Note/Materials/Note.cs:26)
+
+2018-03-30 14:18:26.4073 [ERROR] MissingComponentException: There is no 'AudioSource' attached to the "Note" game object, but a script is trying to access it.
+You probably need to add a AudioSource to the game object "Note". Or your script needs to check if the component is attached before using it.
+UnityEngine.AudioSource.PlayOneShot (UnityEngine.AudioClip clip, Single volumeScale) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Audio/AudioBindings.gen.cs:829)
+UnityEngine.AudioSource.PlayOneShot (UnityEngine.AudioClip clip) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Audio/AudioBindings.gen.cs:817)
+Note.OnTriggerStay (UnityEngine.Collider other) (at Assets/Models/Objects/Note/Materials/Note.cs:26)
+
+2018-03-30 14:18:26.4239 [ERROR] MissingComponentException: There is no 'AudioSource' attached to the "Note" game object, but a script is trying to access it.
+You probably need to add a AudioSource to the game object "Note". Or your script needs to check if the component is attached before using it.
+UnityEngine.AudioSource.PlayOneShot (UnityEngine.AudioClip clip, Single volumeScale) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Audio/AudioBindings.gen.cs:829)
+UnityEngine.AudioSource.PlayOneShot (UnityEngine.AudioClip clip) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Audio/AudioBindings.gen.cs:817)
+Note.OnTriggerStay (UnityEngine.Collider other) (at Assets/Models/Objects/Note/Materials/Note.cs:26)
+
+2018-03-30 14:18:33.4977 [DEBUG] Play mode: False
+2018-03-30 14:18:57.0443 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:18:57.2057 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:19:06.6006 [DEBUG] Play mode: False
+2018-03-30 14:19:33.1662 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:19:33.4047 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:19:41.6193 [DEBUG] Play mode: False
+2018-03-30 14:20:15.7591 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:20:15.9170 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:20:27.0599 [DEBUG] Play mode: False
+2018-03-30 14:20:57.7675 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:20:57.9294 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:21:04.9329 [DEBUG] Play mode: False
+2018-03-30 14:21:22.3666 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:21:22.5345 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:21:28.8043 [DEBUG] Play mode: False
+2018-03-30 14:25:20.1685 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:25:25.8283 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:25:25.9782 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:25:44.5127 [DEBUG] Play mode: False
+2018-03-30 14:35:26.9083 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:36:07.7974 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:36:07.9558 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:36:49.5884 [DEBUG] Play mode: False
+2018-03-30 14:38:22.5588 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:38:32.5891 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:38:32.7520 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:38:42.7201 [DEBUG] Play mode: False
+2018-03-30 14:39:37.4545 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:39:37.6029 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:39:50.1232 [DEBUG] Play mode: False
+2018-03-30 14:42:10.8337 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:42:11.0524 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:42:13.9371 [DEBUG] Play mode: False
+2018-03-30 14:43:54.2751 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:43:54.5240 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:43:58.1066 [DEBUG] Play mode: False
+2018-03-30 14:44:30.6879 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:44:30.8349 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:44:43.1847 [DEBUG] Play mode: False
+2018-03-30 14:48:07.8332 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:48:07.9861 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:48:19.2821 [DEBUG] Play mode: False
+2018-03-30 14:52:50.1049 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:52:50.3332 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:53:03.0295 [DEBUG] Play mode: False
+2018-03-30 14:55:38.7106 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:55:38.9252 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:55:47.4847 [DEBUG] Play mode: False
+2018-03-30 14:57:23.3221 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:57:23.5635 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:57:29.7032 [DEBUG] Play mode: False
+2018-03-30 14:57:47.1943 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 14:57:47.4268 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 14:58:05.5910 [DEBUG] Play mode: False
+2018-03-30 15:04:53.0666 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:04:53.2325 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 15:05:38.8102 [DEBUG] Play mode: False
+2018-03-30 15:06:03.4392 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:06:03.6324 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 15:06:22.0320 [DEBUG] Play mode: False
+2018-03-30 15:09:55.6984 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:09:55.8648 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 15:10:01.3863 [DEBUG] Play mode: False
+2018-03-30 15:10:34.0355 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:10:34.1965 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 15:10:40.8002 [DEBUG] Play mode: False
+2018-03-30 15:11:24.3510 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:11:24.5074 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 15:11:29.8068 [DEBUG] Play mode: False
+2018-03-30 15:12:04.2739 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:12:04.4284 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 15:12:10.4118 [DEBUG] Play mode: False
+2018-03-30 15:13:14.9723 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:13:15.1227 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 15:13:23.7028 [DEBUG] Play mode: False
+2018-03-30 15:13:40.0020 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:13:40.1599 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 15:13:46.7912 [DEBUG] Play mode: False
+2018-03-30 15:19:24.9228 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:19:25.0848 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 15:19:37.4973 [DEBUG] Play mode: False
+2018-03-30 15:19:41.9565 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:19:42.1685 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 15:19:51.9537 [DEBUG] Play mode: False
+2018-03-30 15:20:48.6893 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:20:48.8433 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 15:21:10.5623 [DEBUG] Play mode: False
+2018-03-30 15:21:16.1748 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:21:16.3756 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 15:21:43.9779 [DEBUG] Play mode: False
+2018-03-30 15:22:13.3747 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:22:13.5252 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 15:22:30.0372 [DEBUG] Play mode: False
+2018-03-30 15:23:29.2803 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:24:37.9432 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:24:48.7619 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:24:48.9994 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 15:25:10.4886 [DEBUG] Play mode: False
+2018-03-30 15:45:00.2544 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:45:00.4229 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 15:45:09.5449 [DEBUG] Play mode: False
+2018-03-30 15:47:53.0959 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:47:53.2648 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 15:47:57.4891 [DEBUG] Play mode: False
+2018-03-30 15:49:28.8462 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:50:40.2906 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:50:59.6797 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:50:59.9068 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 15:51:35.9954 [DEBUG] Play mode: False
+2018-03-30 15:51:41.0815 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:51:41.3105 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 15:51:55.5305 [DEBUG] Play mode: False
+2018-03-30 15:52:37.8916 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:52:38.0429 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 15:53:43.5462 [DEBUG] Play mode: False
+2018-03-30 15:53:46.6800 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:53:52.0365 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:53:52.2433 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 15:54:08.5303 [DEBUG] Play mode: False
+2018-03-30 15:54:35.9223 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:54:36.1309 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 15:54:47.3722 [DEBUG] Play mode: False
+2018-03-30 15:55:11.5514 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:55:11.7590 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 15:55:25.7772 [DEBUG] Play mode: False
+2018-03-30 15:56:06.5858 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 15:56:06.7953 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 15:56:27.5769 [DEBUG] Play mode: False
+2018-03-30 16:54:22.1319 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 16:54:22.2913 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 16:55:01.0870 [DEBUG] Play mode: False
+2018-03-30 16:55:32.3059 [DEBUG] Scene Fusion version 1.7.2-0
+2018-03-30 16:55:32.4689 [DEBUG] Play mode: True, sync in play mode: False
+2018-03-30 16:56:24.1936 [DEBUG] Play mode: False
