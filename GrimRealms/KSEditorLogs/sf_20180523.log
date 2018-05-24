@@ -1,0 +1,1203 @@
+2018-05-23 18:54:42.2736 [DEBUG] Scene Fusion version 1.7.2-0
+2018-05-23 20:07:01.4762 [DEBUG] Scene Fusion version 1.7.2-0
+2018-05-23 20:07:02.1125 [DEBUG] Play mode: True, sync in play mode: False
+2018-05-23 20:07:27.1982 [DEBUG] Play mode: False
+2018-05-23 20:11:33.6223 [DEBUG] Scene Fusion version 1.7.2-0
+2018-05-23 20:11:33.8222 [DEBUG] Play mode: True, sync in play mode: False
+2018-05-23 20:11:53.6710 [DEBUG] Play mode: False
+2018-05-23 20:12:29.2405 [DEBUG] Scene Fusion version 1.7.2-0
+2018-05-23 20:12:29.4254 [DEBUG] Play mode: True, sync in play mode: False
+2018-05-23 20:13:06.2491 [DEBUG] Play mode: False
+2018-05-23 20:16:28.6505 [DEBUG] Scene Fusion version 1.7.2-0
+2018-05-23 20:20:18.7737 [DEBUG] Scene Fusion version 1.7.2-0
+2018-05-23 20:20:18.8960 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:33)
+
+2018-05-23 20:20:18.9442 [DEBUG] Play mode: True, sync in play mode: False
+2018-05-23 20:20:18.9542 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:33)
+
+2018-05-23 20:20:18.9857 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:33)
+
+2018-05-23 20:20:19.0098 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:33)
+
+2018-05-23 20:20:19.0324 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:33)
+
+2018-05-23 20:20:19.0564 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:33)
+
+2018-05-23 20:20:19.0820 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:33)
+
+2018-05-23 20:20:19.1041 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:33)
+
+2018-05-23 20:20:19.1270 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:33)
+
+2018-05-23 20:20:19.1487 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:33)
+
+2018-05-23 20:20:19.1717 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:33)
+
+2018-05-23 20:20:19.1943 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:33)
+
+2018-05-23 20:20:19.2164 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:33)
+
+2018-05-23 20:20:19.2439 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:33)
+
+2018-05-23 20:20:19.2610 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:33)
+
+2018-05-23 20:20:19.2775 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:33)
+
+2018-05-23 20:20:19.2936 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:33)
+
+2018-05-23 20:20:19.3106 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:33)
+
+2018-05-23 20:20:19.3273 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:33)
+
+2018-05-23 20:20:19.3438 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:33)
+
+2018-05-23 20:20:19.3603 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.3768 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.3929 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.4101 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.4266 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.4432 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.4594 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.4762 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.4927 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.5098 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.5260 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.5426 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.5590 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.5755 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.5916 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.6087 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.6252 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.6417 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.6583 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.6752 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.6912 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.7088 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.7243 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.7409 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.7576 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.7741 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.7909 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.8075 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.8240 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.8406 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.8571 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.8732 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.8902 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.9068 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.9238 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.9404 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.9565 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.9731 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:19.9898 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.0064 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.0226 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.0405 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.0566 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.0732 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.0945 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.1116 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.1276 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.1442 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.1607 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.1772 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.1943 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.2108 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.2274 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.2442 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.2607 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.2775 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.2956 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.3116 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.3286 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.3450 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.3621 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.3782 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.3947 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.4113 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.4281 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.4447 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.4609 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.4775 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.4940 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.5106 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.5272 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.5437 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.5608 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.5773 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.5933 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.6099 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.6269 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.6434 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.6600 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.6767 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.6930 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.7096 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.7301 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.7477 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.7633 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.7799 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:20.8235 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:21.3156 [DEBUG] Play mode: False
+2018-05-23 20:20:39.0975 [DEBUG] Scene Fusion version 1.7.2-0
+2018-05-23 20:20:39.2173 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:33)
+
+2018-05-23 20:20:39.2745 [DEBUG] Play mode: True, sync in play mode: False
+2018-05-23 20:20:39.2850 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.3221 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.3589 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.3926 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.4267 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.4497 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.4737 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.4969 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.5210 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.5476 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.5711 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.5936 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.6167 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.6398 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.6630 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.6875 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.7166 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.7331 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.7497 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.7662 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.7833 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.7993 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.8159 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.8327 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.8494 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.8659 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.8829 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.8990 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.9150 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.9321 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.9491 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.9652 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.9818 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:39.9984 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.0145 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.0315 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.0486 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.0645 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.0811 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.0976 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.1138 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.1308 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.1474 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.1640 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.1806 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.1976 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.2132 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.2303 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.2466 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.2637 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.2807 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.2963 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.3128 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.3298 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.3459 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.3630 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.3795 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.3956 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.4128 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.4288 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.4459 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.4630 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.4796 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.4957 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.5127 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.5292 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.5458 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.5623 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.5794 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.5954 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.6120 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.6283 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.6454 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.6615 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.6782 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.6942 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.7114 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.7279 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.7700 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.7871 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.8030 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.8201 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.8362 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.8530 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.8698 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.8864 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.9029 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.9195 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.9360 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.9526 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.9686 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:40.9854 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.0018 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.0191 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.0346 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.0519 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.0684 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.0855 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.1012 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.1179 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.1345 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.1511 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.1682 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.1842 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.2009 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.2175 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.2336 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.2507 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.2672 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.2838 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.3004 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.3170 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.3332 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.3501 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.3664 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.3831 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.3997 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.4159 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.4329 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.4495 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.4660 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.4826 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.4992 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.5152 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.5322 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.5487 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.5652 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.5818 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.5984 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.6147 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.6318 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.6486 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.6647 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.6813 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.6976 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.7157 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.7327 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.7493 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.7658 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.7824 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.7989 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.8149 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.8330 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.8499 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.8668 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.8833 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.8999 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.9163 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.9329 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.9496 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.9662 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.9828 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:41.9992 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.0152 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.0323 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.0489 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.0664 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.0818 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.0989 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.1149 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.1315 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.1485 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.1651 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.1815 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.1981 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.2143 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.2313 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.2478 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.2645 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.2809 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.2975 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.3140 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.3306 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.3477 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.3637 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.3803 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.3971 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.4131 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.4312 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.4482 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.4644 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.4814 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.4980 [ERROR] MissingComponentException: There is no 'Light' attached to the "StreetLightBroken" game object, but a script is trying to access it.
+You probably need to add a Light to the game object "StreetLightBroken". Or your script needs to check if the component is attached before using it.
+FlickeringLight.Update () (at Assets/Scripts/FlickeringLight.cs:29)
+
+2018-05-23 20:20:42.9484 [DEBUG] Play mode: False
+2018-05-23 20:21:22.5895 [DEBUG] Scene Fusion version 1.7.2-0
+2018-05-23 20:21:22.7685 [DEBUG] Play mode: True, sync in play mode: False
+2018-05-23 20:21:35.4154 [DEBUG] Play mode: False
+2018-05-23 20:21:45.7833 [DEBUG] Scene Fusion version 1.7.2-0
+2018-05-23 20:21:45.9623 [DEBUG] Play mode: True, sync in play mode: False
+2018-05-23 20:22:03.5328 [DEBUG] Play mode: False
+2018-05-23 20:22:45.5313 [DEBUG] Scene Fusion version 1.7.2-0
+2018-05-23 20:22:45.7132 [DEBUG] Play mode: True, sync in play mode: False
+2018-05-23 20:25:38.4839 [DEBUG] Play mode: False
+2018-05-23 20:26:38.4871 [DEBUG] Scene Fusion version 1.7.2-0
+2018-05-23 20:26:38.6639 [DEBUG] Play mode: True, sync in play mode: False
+2018-05-23 20:28:16.4474 [DEBUG] Play mode: False
+2018-05-23 20:28:33.4556 [DEBUG] Scene Fusion version 1.7.2-0
+2018-05-23 20:28:33.6321 [DEBUG] Play mode: True, sync in play mode: False
+2018-05-23 20:30:12.4242 [DEBUG] Play mode: False
+2018-05-23 20:31:06.9748 [DEBUG] Scene Fusion version 1.7.2-0
+2018-05-23 20:31:07.1408 [DEBUG] Play mode: True, sync in play mode: False
+2018-05-23 20:31:10.0172 [DEBUG] Play mode: False
+2018-05-23 20:55:24.1008 [DEBUG] Scene Fusion version 1.7.2-0
+2018-05-23 20:55:24.3021 [DEBUG] Play mode: True, sync in play mode: False
+2018-05-23 21:00:38.3862 [DEBUG] Play mode: False
+2018-05-23 21:03:00.0802 [DEBUG] Scene Fusion version 1.7.2-0
